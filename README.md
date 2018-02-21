@@ -14,10 +14,10 @@ for "retro game" type displays.
 
 There is support for left/center/right horizontal alignment,
 but that's about as far as the "fancy" features go...
-  No vertical alignment support.
-  No multi-line support.
-  No "styling" support.
-  No "animation" support.
+  * No vertical alignment support.
+  * No multi-line support.
+  * No "styling" support.
+  * No "animation" support.
 
 The included demo code does illustrate how you might go about
 adding some of these fancier features for yourself, but no
